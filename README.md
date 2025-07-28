@@ -32,10 +32,10 @@ High accuracy achieved on emotion classification
 **Project Structure**
 Speech_Emotion_Recognition/
 │
-├── data/                  # Contains downloaded datasets (e.g., RAVDESS)
-├── features/              # Extracted features like MFCC, ZCR, HNR, Spectral Contrast
-├── models/                # Trained model files or model scripts
-├── main.py                # Main script to run training, testing, and evaluation
+├── data/                  Contains downloaded datasets (e.g., RAVDESS)
+├── features/              Extracted features like MFCC, ZCR, HNR, Spectral Contrast
+├── models/                Trained model files or model scripts
+├── main.py                Main script to run training, testing, and evaluation
 ├── requirements.txt      
 ├── README.md            
 └── .gitignore            
